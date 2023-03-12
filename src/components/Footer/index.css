@@ -1,0 +1,11 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.heCont {
+  display: flex;
+  justify-content: center;
+  height: 12vh;
+  width: 60vw;
+  background-color: #cbd5e1;
+  padding: 2%;
+  margin-top: 2%;
+}

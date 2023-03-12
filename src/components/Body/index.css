@@ -1,0 +1,65 @@
+/* Write your CSS here */
+.bodyCont {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1%;
+}
+.bodyLeft {
+  display: flex;
+  flex-direction: column;
+  height: 25vh;
+  width: 15vw;
+  background-color: #cbd5e1;
+  padding: 4%;
+}
+.bodyHead {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: black;
+}
+.bodyLNav {
+  display: flex;
+  flex-direction: column;
+  padding: 2%;
+}
+.bodyLList {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: black;
+  list-style-type: none;
+  margin-top: 2%;
+}
+.bodyPara {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: black;
+}
+
+.bodyMiddle {
+  display: flex;
+  flex-direction: column;
+  height: 25vh;
+  width: 15vw;
+  background-color: #f1f5f9;
+  padding: 4%;
+  margin-left: 2%;
+}
+.bodyRight {
+  display: flex;
+  flex-direction: column;
+  height: 25vh;
+  width: 15vw;
+  background-color: #cbd5e1;
+  padding: 4%;
+  margin-left: 2%;
+}
+.bodyrList {
+  font-family: 'Roboto';
+  font-size: 15px;
+  border: 2px solid black;
+  list-style-type: none;
+  height: 5vh;
+  width: 5vw;
+  margin-top: 3%;
+  padding: 3%;
+}

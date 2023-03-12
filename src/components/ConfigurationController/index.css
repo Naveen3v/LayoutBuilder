@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.navCont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #475569;
+  height: 40vh;
+  width: 100vw;
+  padding: 3%;
+}
+.navheading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: white;
+}
+.navlistCont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.navList {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin-top: 1%;
+}
+.navLabel {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: white;
+  margin-left: 1%;
+}
